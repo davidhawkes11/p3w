@@ -7,17 +7,17 @@ print ("\n\n\nPython 3.0 Workbook\nStudent Work Booklet\nStudent Activity p3w_06
 print ("A program to demonstrate string selection and to display the output to the screen.\n\n" )
 
 menu = "What would you like?:\n\
-       1. A complement?\n\
-       2. An insult?\n\
-       3. A proverb?\n\
-       4. An idiom?\n\
-       9. Quit\n"
+    1. A complement?\n\
+    2. An insult?\n\
+    3. A proverb?\n\
+    4. An idiom?\n\
+    9. Quit\n"
 
 x = int(input(menu))
 if x == 1:
     print("You look lovely today!")
 elif x == 2:
-        print("You smell funny")
+    print("You smell funny")
 elif x == 3:
     print("Two wrongs don't make a right, but three lefts do...")
 elif x ==  4:
