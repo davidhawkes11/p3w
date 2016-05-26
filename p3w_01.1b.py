@@ -1,0 +1,8 @@
+print ("2+2")
+print (2+2)
+print ("17-9")
+print (17-9)
+print ("16/4")
+print (16/4)
+print ("3*7")
+print (3*7)
