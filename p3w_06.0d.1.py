@@ -12,10 +12,10 @@ n1 = int(input("Enter the first number: "))
 n2 = int(input("Enter the second number: "))
 
 if (n1 == n2):
-     print("The two numbers are identical")
+	print("The two numbers are identical")
 elif (n1 > n2):
-        print("The first number ",  n1 ,"is larger than the second number ", n2)
+	print("The first number ",  n1 ,"is larger than the second number ", n2)
 elif (n1 < n2):
-        print("The first number ", n1 ," is smaller than the second number ", n2)
+    print("The first number ", n1 ," is smaller than the second number ", n2)
 print("Goodbye!")
 print("\nProgram successfully terminated.")
